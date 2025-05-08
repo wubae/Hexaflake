@@ -21,8 +21,8 @@ brew install sfml
 ### Build Instructions
 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/wubae/Hexaflake.git
-cd Hexaflake
+git clone https://github.com/wubae/hexaflake.git
+cd hexaflake
 ```
 
 2. Build the Project Using `make`
