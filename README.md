@@ -13,6 +13,23 @@ This is a C++ project that uses [SFML](https://www.sfml-dev.org/) (Simple and Fa
 
 ## 💻 Installation (macOS)
 
-### 1. Install SFML via Homebrew
+### Install SFML via Homebrew
 ```bash
 brew install sfml
+```
+
+### Build Instructions
+1. Clone or Download the Repository
+```bash
+git clone https://github.com/wubae/Hexaflake.git
+cd Hexaflake
+```
+
+2. Build the Project Using `make`
+```bash
+make
+```
+
+3. Run the Program
+```bash
+./Hexa (size) (depth)
