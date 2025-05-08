@@ -33,3 +33,9 @@ make
 3. Run the Program
 ```bash
 ./Hexa (size) (depth)
+```
+
+### Screenshot
+![Screenshot](/screenshot.png)
+
+Picture created with `./Hexa 300`.
