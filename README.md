@@ -2,6 +2,7 @@
 
 This is a C++ project that uses [SFML](https://www.sfml-dev.org/) (Simple and Fast Multimedia Library) to render graphics, handle input, and play sounds.
 
+This project demonstrates the use of recursion to generate a hexagonal snowflake pattern (Hexaflake) using SFML. The program draws layered hexagons based on user-defined size and depth, utilizing trigonometric functions and sf::ConvexShape for graphical rendering.
 ---
 
 ## Requirements
@@ -38,4 +39,4 @@ make
 ### Screenshot
 ![Screenshot](/screenshot.png)
 
-Picture created with `./Hexa 300`.
+Picture created with `./Hexa 300 3`.
